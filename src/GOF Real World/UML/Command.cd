@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="DoFactory.GangOfFour.Command.RealWorld.MainApp" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Command.RealWorld.Command" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Command.RealWorld.CalculatorCommand" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AQAAgAAAAAAABAYCAAAAAAAAAAAAAAAAAAAAAAEAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Command.RealWorld.Calculator" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Command.RealWorld.User" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AEAAAAAAAAIABAIAAAAAAAABgAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

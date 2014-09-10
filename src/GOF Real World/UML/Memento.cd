@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="DoFactory.GangOfFour.Memento.RealWorld.MainApp" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Memento.RealWorld.SalesProspect" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAQAAAAEAAAiAACAIAAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Memento.RealWorld.Memento" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAgAACAIAAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Memento.RealWorld.ProspectMemory" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

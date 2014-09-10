@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="DoFactory.GangOfFour.Adapter.NETOptimized.MainApp" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Adapter.NETOptimized.Compound" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAACAAAAAgAAAAIAAQACQQEAAAEAAAAAAQAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Adapter.NETOptimized.RichCompound" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Adapter.NETOptimized.ChemicalDatabank" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAACAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DoFactory.GangOfFour.Adapter.NETOptimized.Chemical" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAQAAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DoFactory.GangOfFour.Adapter.NETOptimized.State" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MainApp.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>
